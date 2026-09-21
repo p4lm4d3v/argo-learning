@@ -6,11 +6,7 @@ A collection of lightweight side projects, scripts, and simulations designed to 
 
 ## 📂 Structure
 
-Each subfolder contains an isolated experiment focusing on a specific concept:
-* **`kinematics/`** – Forward/inverse kinematics, coordinate transformations, and trajectory planning.
-* **`dynamics/`** – Force, torque, momentum, and motor calculations.
-* **`control/`** – PID loops, filtering, and feedback systems.
-* **`physics/`** – Rigid body dynamics, friction, and collision modeling.
+Each folder represent a project, and the subfolders in it are different experiments relevant to the project.
 
 ---
 
